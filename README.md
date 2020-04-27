@@ -1,2 +1,2 @@
-# jfxApps
-Apps in Javafx
+# jfxAppllication
+4 Applications using Javafx
